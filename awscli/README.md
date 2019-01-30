@@ -1,5 +1,5 @@
 # AWSCLI on Alpine
-It provides clean AWSCLI installation without setrting any entrypoint or CMD. 
+It provides clean AWSCLI installation without setting any entrypoint or CMD,  
 Which gives you flexibility to run own bash and do whatever the hell you want to do.  
 
 I use it to test permissions of IAM keys.  
